@@ -18,9 +18,6 @@ export default function WorldHub() {
           AI ARCHITECTURE PORTAL
         </div>
 
-        <h1 className="text-8xl font-black">
-          ABHISHEK
-        </h1>
 
         <h2 className="text-3xl opacity-80 mt-4">
           AI Engineer • Builder • Creator

@@ -32,7 +32,7 @@ export default function Hero() {
         </p>
 
         <h1 className="text-7xl md:text-9xl font-bold">
-          Abhishek Sharma
+          AI Architecture
         </h1>
 
         <p className="mt-8 max-w-3xl mx-auto text-zinc-400 text-lg">

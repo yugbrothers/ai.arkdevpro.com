@@ -4,7 +4,6 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-8 py-5 flex justify-between items-center">
 
         <h1 className="font-bold text-xl text-white">
-          Abhishek Sharma
         </h1>
 
         <div className="hidden md:flex gap-8 text-sm text-zinc-300">

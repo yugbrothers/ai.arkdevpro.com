@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Abhishek Sharma | AI Engineer",
+  title: "AI Architecture Portal | AI Engineer",
   description:
     "AI Engineer, Full Stack Developer and Machine Learning Builder.",
 };

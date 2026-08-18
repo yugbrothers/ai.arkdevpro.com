@@ -4,7 +4,7 @@ import "./globals.css";
 import LenisProvider from "@/components/providers/LenisProvider";
 
 export const metadata: Metadata = {
-  title: "Abhishek Sharma",
+  title: "AI Architecture Portal",
   description: "AI Engineer Portfolio",
 };
 

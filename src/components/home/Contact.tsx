@@ -15,7 +15,7 @@ export default function Contact() {
         </p>
 
         <a
-          href="mailto:abhishek@example.com"
+          href="mailto:abhisheksharma1zac@gmail.com"
           className="inline-block mt-10 rounded-full bg-cyan-400 px-8 py-4 text-black font-semibold"
         >
           Send Email
