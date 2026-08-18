@@ -24,3 +24,28 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+@keyframes marquee {
+  from {
+    transform: translateX(0%);
+  }
+
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+
+html{
+  scroll-behavior:smooth;
+}
+
+
+
+.cyan-glow{
+  box-shadow:
+  0 0 40px rgba(34,211,238,.25),
+  0 0 80px rgba(34,211,238,.15);
+}
+

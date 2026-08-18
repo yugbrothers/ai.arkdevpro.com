@@ -1,0 +1,22 @@
+.scroll-stack-scroller{
+  position:relative;
+  width:100%;
+}
+
+.scroll-stack-inner{
+  padding:10rem 2rem;
+}
+
+.scroll-stack-card{
+  min-height:350px;
+  border-radius:40px;
+  background:#0f0f0f;
+  border:1px solid rgba(255,255,255,.08);
+  margin-bottom:100px;
+  padding:3rem;
+  backdrop-filter:blur(20px);
+}
+
+.scroll-stack-end{
+  height:1px;
+}

@@ -22,7 +22,10 @@
 
 # misc
 .DS_Store
+._*
 *.pem
+backups/
+restore-last.sh
 
 # debug
 npm-debug.log*
